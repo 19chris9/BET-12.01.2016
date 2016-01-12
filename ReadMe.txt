@@ -1,1 +1,0 @@
-All parties involved signed a contract, which will be uploaded shorty / is already uploaded on this git.
